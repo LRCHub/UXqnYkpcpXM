@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "jitensha",
+  "base_artist": "kurayamisaka",
+  "createdAt": "2025-12-07T03:43:50.246961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shiroi Natsu to Midori no Jitensha Akai Kami to Kuroi Guitar",
+      "artist": "The Pillows",
+      "has_synced": true,
+      "path": "select/01_Shiroi_Natsu_to_Midori_no_Jitensha_Akai_Kami_to_Kuroi_Guitar_The_Pillows.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jitensha",
+      "artist": "Oreskaband",
+      "has_synced": true,
+      "path": "select/02_Jitensha_Oreskaband.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mirai Jitensha",
+      "artist": "FTISLAND",
+      "has_synced": true,
+      "path": "select/03_Mirai_Jitensha_FTISLAND.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jitensha",
+      "artist": "ORESKABAND",
+      "has_synced": true,
+      "path": "select/04_Jitensha_ORESKABAND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jitensha",
+      "artist": "Aiko",
+      "has_synced": true,
+      "path": "select/05_Jitensha_Aiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jitensha Dorobo",
+      "artist": "Unicorn",
+      "has_synced": false,
+      "path": "select/06_Jitensha_Dorobo_Unicorn.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jitensha",
+      "artist": "Oreskaband",
+      "has_synced": true,
+      "path": "select/07_Jitensha_Oreskaband.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shiroi natsu to midori no jitensha akai kami to kuroi gita (Fool on cool version)",
+      "artist": "the pillows, R・O・N",
+      "has_synced": true,
+      "path": "select/08_Shiroi_natsu_to_midori_no_jitensha_akai_kami_to_kuroi_gita_(Fool_on_cool_version_the_pillows,_R・O・N.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shiroi natsu to midori no jitensha, akai kami to kuroi gitaa (original egoistic version)",
+      "artist": "The Pillows",
+      "has_synced": true,
+      "path": "select/09_Shiroi_natsu_to_midori_no_jitensha,_akai_kami_to_kuroi_gitaa_(original_egoistic__The_Pillows.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "jitensha",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/10_jitensha_kurayamisaka.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kimi wa Jitensha Watashi wa Densha de Kitaku",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/11_Kimi_wa_Jitensha_Watashi_wa_Densha_de_Kitaku_Various.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shiroi natsu to midori no jitensha akai kami to kuroi gita (Fool on cool version)",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/12_Shiroi_natsu_to_midori_no_jitensha_akai_kami_to_kuroi_gita_(Fool_on_cool_version_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jitensha Express",
+      "artist": "Sayonara Ponytail",
+      "has_synced": false,
+      "path": "select/13_Jitensha_Express_Sayonara_Ponytail.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "jitensha",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/pl_01_jitensha_kurayamisaka.txt"
+    }
+  ]
+}
